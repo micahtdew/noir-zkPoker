@@ -1,2 +1,2 @@
-# noir-zkoracle
-This is a project with the intention of builing zkOracles using Noir.
+# noir-zkPoker
+This is a project with the intention of building zkPoker in Noir.
